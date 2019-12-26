@@ -1,2 +1,17 @@
-# Default ignored files
-/workspace.xml
+##ignore this file##
+/target/
+
+.classpath
+.project
+.settings     
+ ##filter databfile、sln file##
+*.mdb  
+*.ldb  
+*.sln   
+##class file##
+*.com  
+*.class  
+*.dll  
+*.exe  
+*.o  
+*.so 
