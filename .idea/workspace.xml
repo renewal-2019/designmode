@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0a56a58b-7db1-4221-9216-343dfda3ebf2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +116,7 @@
       <updated>1577343178686</updated>
       <workItem from="1577343184055" duration="3068000" />
       <workItem from="1577346329679" duration="1853000" />
-      <workItem from="1577348211574" duration="242000" />
+      <workItem from="1577348211574" duration="921000" />
     </task>
     <task id="LOCAL-00001" summary="1.0.0">
       <created>1577346787980</created>
@@ -133,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577347139245</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="添加gitignore文件">
+      <created>1577348505014</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577348505014</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +161,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1.0.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.0.0" />
+    <MESSAGE value="添加gitignore文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加gitignore文件" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1577345347471">
